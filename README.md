@@ -21,14 +21,24 @@ Runs fully automated on a Mon/Wed/Fri cron for ~£2–3/month.
 → [Repo](https://github.com/AgentBC9000/agentdb) · [Live site](https://agentdb.pages.dev)
 
 ---
-🧮 AI Cost Calculator — plain-English AI project costs
-Pick a project type, answer a few questions, get a monthly price across providers (Anthropic, OpenAI, Google, DeepSeek). No tokens, no jargon. Python + FastAPI, CI-run test suite.
-→ Repo · Try it live
 
+#### 🧮 AI Cost Calculator — plain-English AI project costs
 
-🧠 MemPalace — temporal knowledge-graph memory for agents
-Facts with validity windows, per-agent access control, provenance-gated writes. Runs daily as shared memory for multiple agents. Open-source release in progress.
+Pick a project type, answer a few questions, get a monthly price across
+providers (Anthropic, OpenAI, Google, DeepSeek). No tokens, no jargon.
+Python + FastAPI, CI-run test suite.
 
+→ [Repo](https://github.com/AgentBC9000/ai-cost-calculator) · [Try it live](https://ai-cost-calculator.onrender.com)
+
+---
+
+#### 🧠 MemPalace — temporal knowledge-graph memory for agents
+
+Facts with validity windows, per-agent access control, provenance-gated
+writes. Runs daily as shared memory for multiple agents. Open-source
+release in progress.
+
+---
 
 #### What I work with
 
@@ -36,4 +46,4 @@ Facts with validity windows, per-agent access control, provenance-gated writes. 
 
 #### Reach me
 
-Kevinstephenson@me.com
+[kevinstephenson@me.com](mailto:kevinstephenson@me.com)

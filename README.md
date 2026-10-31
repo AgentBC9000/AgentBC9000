@@ -8,28 +8,29 @@ iOS background; now focused on agent tooling.
 
 ---
 
-#### 🚀 AgentDB — fresh RAG context for AI agents
+#### 🚀 AgentDB — RAG knowledge API for AI agents *(2025–2026)*
 
-A curated knowledge base your agent queries at inference time. 40 sources
-scraped, AI-summarised, and structured into agent-ready JSON — ~15× less context
-than raw sources for the same signal. Ships as an MCP server for Claude Desktop,
-Cursor, and Claude Code.
+A curated knowledge base agents query at inference time. 40 sources scraped,
+AI-summarised, and structured into agent-ready JSON — ~15× less context than
+raw sources for the same signal. Shipped as a REST API and an MCP server.
 
-**Stack:** Python · GitHub Actions · DeepSeek Flash · Supabase (pgvector) · Cloudflare Pages
-Runs fully automated on a Mon/Wed/Fri cron for ~£2–3/month.
+**Took ~£300 in revenue from early-access customers** before I wound it down in
+2026, having proved the thesis. Ran unattended on a Mon/Wed/Fri cron for
+~£2–3/month.
 
-→ [Repo](https://github.com/AgentBC9000/agentdb) · [Live site](https://agentdb.pages.dev)
+**Stack:** Python · GitHub Actions · DeepSeek · Supabase (pgvector) · Cloudflare Pages
+
+→ [Source](https://github.com/AgentBC9000/agentdb)
 
 ---
 
-#### 🧮 AI Cost Calculator — plain-English AI project costs
+#### 🧮 AI Cost Calculator — plain-English AI project costs *(live)*
 
 Pick a project type, answer a few questions, get a monthly price across
 providers (Anthropic, OpenAI, Google, DeepSeek). No tokens, no jargon.
-Python + FastAPI, CI-run test suite.
+Python + FastAPI.
 
 → [Repo](https://github.com/AgentBC9000/ai-cost-calculator) · [Try it live](https://ai-cost-calculator.onrender.com)
-
 ---
 
 #### 🧠 MemPalace — temporal knowledge-graph memory for agents
